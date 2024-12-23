@@ -28,7 +28,7 @@ const Balance = () => {
               <p className="ml-2 text-lg font-semibold">₹2500000</p>
             </div>
           </div>
-          <span className="absolute w-[2rem] top-2 right-2 h-[2rem] flex justify-center text-xl bg-white items-center rounded-full"><RxArrowTopRight/></span>
+          <span className="absolute cursor-pointer w-[2rem] top-2 right-2 h-[2rem] flex justify-center text-xl bg-white items-center rounded-full"><RxArrowTopRight/></span>
         </div>
     </div>
   )
