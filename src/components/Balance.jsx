@@ -10,7 +10,7 @@ const Balance = () => {
     <div className="flex items-center justify-center w-full h-full mt-12">
         <div className="flex justify-start relative flex-col gap-6 items-start rounded-xl w-[500px] h-[300px] bg-[#add8e6]">
           <p className="mt-2 ml-4 text-2xl font-semibold">Supplier Balance</p>
-          <div className="flex ml-3 flex-col justify-start gap-6 items-start border border-[#D5D7DA] w-[95%] h-[6rem] rounded-md bg-white">
+          <div className="flex ml-3 flex-col justify-start gap-6 items-start border border-[#D5D7DA] w-[80%] h-[6rem] rounded-md bg-white">
             <p className="mt-2 ml-2 font-medium">Total Balance</p>
             <p className="ml-2 font-medium">₹2500000.00</p>
           </div>
